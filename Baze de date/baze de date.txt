@@ -1,9 +1,8 @@
-adaugarea, modificarea, stergerea
 aplicatie fisiere care pastreaza un tabel de baze de date
 lucrul direct cu failul
 fara draiveruri pentru baze de date
+filtrarea
 afisarea
+stergere
 adaugarea
 modificare
-stergere
-filtrarea
