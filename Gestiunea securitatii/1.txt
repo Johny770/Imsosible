@@ -1,5 +1,5 @@
 Avantajele utilizării Git sunt:
--proiect open source de calitate;
--flexibilitate;
--securitate;
--performanță.
+-Proiect open source de calitate;
+-Flexibilitate;
+-Securitate;
+-Performanță.
