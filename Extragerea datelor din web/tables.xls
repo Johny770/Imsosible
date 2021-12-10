@@ -4,9 +4,9 @@
   <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
     <Author/>
       <LastAuthor/>
-<Created/>
-<Company/>
-<Version/>
+        <Created/>
+          <Company/>
+            <Version/>
 </DocumentProperties>
 <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
 <AllowPNG/>
