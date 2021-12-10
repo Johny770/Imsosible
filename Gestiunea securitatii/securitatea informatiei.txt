@@ -1,0 +1,6 @@
+Securitatea informațiilor este practica de a preveni accesul, utilizarea, divulgarea, denaturarea, modificarea, 
+cercetarea, înregistrarea sau distrugerea informațiilor neautorizate.
+Firewall-ul filtreaza traficul provenind din surse nesecurizate sau suspecte pentru a preveni atacurile.
+
+brute force
+phishing atack
