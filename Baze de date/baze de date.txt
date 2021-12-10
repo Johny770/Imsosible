@@ -1,8 +1,8 @@
 Aplicatie fisiere care pastreaza un tabel de baze de date
 lucrul direct cu failul
 Fara draiveruri pentru baze de date
-Filtrarea;
-Afisarea;
-Ștergere;
-Adaugarea;
-Modificare.
+  Filtrarea;
+    Afisarea;
+      Ștergere;
+        Adaugarea;
+          Modificare.
