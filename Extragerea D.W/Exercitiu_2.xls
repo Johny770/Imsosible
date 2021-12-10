@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author/>
+<LastAuthor/>
+<Created/>
+<Company/>
+<Version/>
+</DocumentProperties>
+<OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+<AllowPNG/>
+</OfficeDocumentSettings>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<WindowHeight>10000</WindowHeight>
+<WindowWidth>20000</WindowWidth>
+<WindowTopX>-20</WindowTopX>
+<WindowTopY>-20</WindowTopY>
+<Date1904/>
+<AcceptLabelsInFormulas/>
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Top"/>
+<Borders/>
+<Font ss:FontName="Verdana"/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+<Style ss:ID="s21">
+<Alignment ss:Vertical="Top"/>
+<Font ss:Color="#FFFFFF" ss:FontName="Verdana" ss:Bold="1"/>
+<Interior ss:Color="#000000" ss:Pattern="Solid"/>
+</Style>
+<Style ss:ID="s22">
+<Alignment ss:Vertical="Top"/>
+<Font ss:Color="#000000" ss:FontName="Verdana"/>
+</Style>
+</Styles>
+<Worksheet ss:Name="Collection1">
+<Table x:FullColumns="1" x:FullRows="1">
+
+<Column ss:AutoFitWidth="0"/><Column ss:AutoFitWidth="0"/><Column ss:AutoFitWidth="0"/><Row ss:StyleID="s21">
+
+<Cell><Data ss:Type="String">Titlul Articolului</Data></Cell><Cell><Data ss:Type="String">Autor</Data></Cell><Cell><Data ss:Type="String">ConțInutul Articolului</Data></Cell></Row>
+
+<Row>
+
+<Cell ss:StyleID="s22"><Data ss:Type="String">Școala de antreprenoriat, ediția a IV-a, în cadrul proiectului SMART</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String">Școala de antreprenoriat, ediția a III-a, în cadrul proiectului SMART</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">mediadmin</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">Școala de antreprenoriat, ediția a IV-a, în cadrul proiectului SMART Echipa proiectului SMART a Universității de Stat,,Alecu Russo” din Bălți a organizat în perioada 6-18 septembrie 2021, sesiuni de formare Fii SMART cu USARB! Școala de antreprenoriat, ediția a IV-a, planificate în cadrul proiectului SMART –585620-EPP-1-2017-1- EL-EPPKA2-CBHE-JP Fostering university-enterprise cooperation and entrepreneurship of students…</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String">ReSTART: Focus Group Session nr.4</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">mediadmin</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">Școala de antreprenoriat, ediția a III-a, în cadrul proiectului SMART Echipa proiectului SMART a Universității de Stat,,Alecu Russo” din Bălți a organizat sesiuni de formare Fii SMART cu USARB! Școala de antreprenoriat, ediția a III-a, planificate în cadrul proiectului SMART –585620-EPP-1-2017-1- EL-EPPKA2-CBHE-JP Fostering university-enterprise cooperation and entrepreneurship of students via SMART Caffes, cofinanțat de…</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String">Studenții USARB beneficiază de mobilitate academică la Universitatea din Volda, Norvegia</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">mediadmin</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">ReSTART: Focus Group Session nr.4 În data de 17 septembrie 2021, la Facultatea de Științe Reale, Economice și ale Mediului ale Universității de Stat „Alecu Russo” din Bălți, în cadrul Proiectului RESTART (nr. 585353-EPP-1-2017-1-RO-EPPKA2-CBHE-JP, Reinforce entrepreneurial and digital skills of students and teachers to enhance the modernization of higher education in MOLDOVA, a fost organizată…</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String">Întrevederea administrației USARB cu partenerii de dezvoltare</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">mediadmin</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">Studenții USARB beneficiază de mobilitate academică la Universitatea din Volda, Norvegia USARB încurajează mobilitățile academice pentru studenți, cu suportul programului Erasmus+! Mirela Marchitan și Alexandr Dimitricenco, selectați de către DRI al USARB pentru un stagiu de mobilitate internațională de credite prin intermediul programului Erasmus+, vor studia în semestrul de toamnă al anului universitar 2021-2022 în…</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String">Start mobilităților academice ale studenților USARB în Universitatea din Cordoba, Spania!</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">mediadmin</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">Întrevederea administrației USARB cu partenerii de dezvoltare În data de 17 septembrie 2021, administrația Universității de Stat,,Alecu Russo” din Bălți a avut o întrevedere cu doamnele Madelene Eichhorn, Katarina Nillson si Evghenia Schitco, reprezentante ale Ambasadei Suediei la Chișinău, cu reprezentanții proiectului USAID,,Future Technology”, proiectului Tekwill, Asociației Patronale din Industria Prelucrătoare și Asociației…</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String">Studenții USARB au început mobilitatea în Universitatea din Valladolid, Spania!</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">mediadmin</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">Start mobilităților academice ale studenților USARB în Universitatea din Cordoba, Spania! Trei studenți ai USARB, selectați pentru mobilitate internațională de credite în cadrul programului Erasmus+, au demarat semestrul de toamnă în Universitatea din Cordoba, Andaluzia, Spania! Comerzan Valeria, Culibaba Tatiana și Jantovanu Alexandru au participat la reuniunea de,,Bun venit”, organizată de Oficiul de Relații…</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String">Un nou bursier al Programului Fulbright în USARB</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">mediadmin</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">Studenții USARB au început mobilitatea în Universitatea din Valladolid, Spania! Studenții USARB Alexandr Guțul, Anastasia Novicov și Valeria Ciobanu au fost selectați de către DRI al USARB pentru un stagiu de mobilitate nternațională de credite prin intermediul programului Erasmus+, au demarat semestrul de toamnă în Universitatea din Valladolid, Spania! Studenții USARB împărtășesc primele impresii din…</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String">Încălțăminte artizanală și mobilier pictat – tradiție în arta populară maghiară (expozitie și prezentare) în USARB</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">mediadmin</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">Un nou bursier al Programului Fulbright în USARB În data de 9 septembrie 2021, administrația Universității de Stat „Alecu Russo” din Bălţi (USARB) a avut o întrevedere cu reprezentanții Ambasadei SUA la Chișinău și bursierii Programului Fulbright ETA. Doamna Natalia GAȘIȚOI, rectorul Universității de Stat „Alecu Russo” din Bălţi, a adresat un mesaj de gratitudine…</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String">Participarea studenților USARB la Hackathon-ul internațional SMART</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">mediadmin</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">Încălțăminte artizanală și mobilier pictat – tradiție în arta populară maghiară (expozitie și prezentare) în USARB În data de 9 septembrie 2021, în Universitatea de Stat,,Alecu Russo” din Bălți a avut loc evenimentul,,Încâlțăminte artizanala și mobilier pictat – tradiție în arta populară maghiară” (expozitie și prezentare). La eveniment au participat oaspeții Fülöp-Gábor András,…</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">mediadmin</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">Participarea studenților USARB la Hackathon-ul internațional SMART În perioada 2-3 septembrie 2021, studenții USARB au participat la Hackathon-ul internațional SMART, promovat în cadrul proiectului 585620-EPP-1-2017-1- EL-EPPKA2-CBHE-JP Fostering university-enterprise cooperation and entrepreneurship of students via SMART Caffes/SMART din cadrul programului european ERASMUS+. Evenimentul a fost organizat online, în limba engleză, cu participarea studenților din Moldova, Armenia…</Data></Cell></Row></Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Print>
+<ValidPrinterInfo/>
+<HorizontalResolution>-4</HorizontalResolution>
+<VerticalResolution>-4</VerticalResolution>
+</Print>
+<PageLayoutZoom>0</PageLayoutZoom>
+<Selected/>
+<FreezePanes/>
+<SplitHorizontal>1</SplitHorizontal>
+<TopRowBottomPane>1</TopRowBottomPane>
+<ActivePane>2</ActivePane>
+<Panes>
+<Pane>
+<Number>3</Number>
+</Pane>
+<Pane>
+<Number>2</Number>
+<ActiveCol>0</ActiveCol>
+</Pane>
+</Panes>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>
